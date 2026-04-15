@@ -57,6 +57,6 @@ that replace extractive lending with aligned, community-owned growth.
 
 - **Documentation** — coming in Phase 2
 - **Community** — coming in Phase 2
-- **Contributing** — read our [contributing guidelines](.github/CONTRIBUTING.md)
+- **Contributing** — read our [contributing guidelines](https://github.com/zivana-labs/.github/blob/main/CONTRIBUTING.md)
 
 Built for Africans. Open to the world.
