@@ -75,6 +75,12 @@ in mind. The core team will respond before any implementation begins.
 
 ---
 
+## Code Review Standards
+
+Before opening a pull request, please also read our [Code Review Standards](./CODE_REVIEW_STANDARDS.md), which describes what we evaluate every contribution against — correctness, security, data safety, test quality, modularity, and more. This applies across all repositories in addition to the repository-specific requirements above.
+
+---
+
 ## Repository-Specific Notes
 
 | Repository | Language | Key Requirement |
